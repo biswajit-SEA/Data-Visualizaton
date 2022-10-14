@@ -1,0 +1,5 @@
+s1=str(input("Enter the list separated by comma"))
+n=s1.split(",")
+s2=str(input("Enter the list separated by comma"))
+m=s2.split(",")
+print("After concatination lis is:",n+m)
