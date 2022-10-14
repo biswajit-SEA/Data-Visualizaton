@@ -1,0 +1,73 @@
+(a)
+Enter your email idsubhankar@gmail.com
+valid
+
+(b)
+[0, 1454541, 0, 6345436, 121, 45754, 9, 1281821]
+
+(c)
+(i)python Question1.py marks.csv
+   200
+
+(ii)python Question2.py marks.csv
+    200
+
+(iii)python Question3.py marks.csv
+    10
+
+(iv)python Question4.py marks.csv
+    10
+
+(v)python Question5.py marks.csv
+  {'Sno': 1, 'Math': 2, 'CS': 3, 'GK': 4, 'Prog': 5, 'Comm': 6, 'Sel': 7}
+
+
+(vi)python Question6.py marks.csv output.csv
+"Anaconda Systems Campus Placement",,,,,,
+ 
+"Conducted on:",,,"30 Feb 2011",,,
+
+"Sno","Math","CS","GK","Prog","Comm","Sel"
+
+1,"NA","NA","NA",4,0,0
+
+2,"NA","NA","NA",4,"NA",0
+
+3,"NA","NA",0,3,"NA",0
+
+4,0,"NA","NA",4,"NA",1
+
+5,0,"NA","NA",2,"NA",0
+
+6,"NA","NA","NA",0,"NA",0
+
+7,"NA","NA","NA",0,"NA",0
+
+8,0,"NA","NA",0,0,0
+
+9,"NA","NA","NA",3,"NA",0
+
+10,"NA","NA","NA",0,0,0
+
+
+(vii) python Question7.py marks.csv           
+['11', 'NA', '1', '0', 'NA', '0', '0', 1]
+
+['12', 'NA', 'NA', '-1', 'NA', 'NA', '0', 0]
+
+
+['13', 'NA', '0', 'NA', 'NA', 'NA', '0', 0]
+
+['16', 'NA', '0', '0', 'NA', '0', '0', 0]
+
+['17', '0', '5', '0', 'NA', '0', '0', 5]
+
+['22', 'NA', 'NA', '-1', 'NA', 'NA', '0', 0]
+
+['24', 'NA', 'NA', 'NA', 'NA', 'NA', '0', 0]
+
+['27', 'NA', 'NA', 'NA', 'NA', 'NA', '0', 0]
+
+['28', 'NA', '0', '0', 'NA', 'NA', '0', 0]
+
+['29', '5', '5', '0', 'NA', 'NA', '0', 10]
