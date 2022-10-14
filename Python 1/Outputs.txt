@@ -1,0 +1,28 @@
+(a)
+Enter the list separated by comma: 1,2,3,4
+The list you have entered is: ['1', '2', '3', '4']
+The number of elements of the list is: 4
+
+(b)
+Enter the list separated by comma: 1,1,2,3,4,4,5,5,5
+The list list elements are: ['1', '2', '3', '4', '5']
+
+(c)
+Enter the number of terms 6
+0 1 1 2 3 5 
+
+(d)
+Enter the first number: 7
+Enter the second number: 8
+The value a is:  7 and b is:  8
+After swapping
+The value a is:  8 and b is:  7
+
+(e)
+Enter the list separated by comma: 1,2,3
+Enter the second list separated by comma: 4,5,6
+After combining the final list is: ['1', '2', '3', '4', '5', '6']
+
+(f)
+Enter the list separated by comma: a1cd,2bc,3bd
+Int part of every element of  ['a1cd', '2bc', '3bd'] is: ['1', '2', '3']
