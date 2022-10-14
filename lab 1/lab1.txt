@@ -1,0 +1,29 @@
+QS1.
+ Output: Enter the list separated by comma :1,2,3,4
+The list is ['1','2','3','4']
+The number of element is: 4
+
+QS2.
+ output: Enter number of elements :1,2,2,3,3,4
+ The list is 1,2,3,4
+
+QS3.
+ output: Enter element 6
+ 0 1 1 2 3 5
+
+QS4.
+ output :Enter 1st one 90
+ Enter 2nd one 56
+ After swaping r is 56  and 90
+
+QS5.
+output:
+Enter the 	1st list separated by comma :1,2,3
+Enter the 	2nd list separated by comma :4,10,67
+After concatinate list ['1','2','3','4','10','67']
+
+QS6.
+output:
+Enter the list separated by comma :acd1,2bc,3bd
+['1','2','3']
+
