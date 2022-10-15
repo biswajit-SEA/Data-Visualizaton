@@ -10,5 +10,5 @@ People can contribute to the repo using some non-code stuff like documentation a
 # Track4 - Web Dev
 Contribute to the landing page and backend.
 
-#Track5 - AI/ML
+# Track5 - AI/ML
 Contribute to the Machine Learning track for producing better data-sets
