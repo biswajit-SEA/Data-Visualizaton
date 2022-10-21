@@ -1,0 +1,29 @@
+class Solution {
+public:
+    vector<int> sortedSquares(vector<int>& nums) {
+        int n=nums.size();
+        
+        vector<int>result(n,0);
+        int i=0;  //points to the most negative element in the array
+        int j=nums.size()-1; //points to the most positive element in the sorted ary
+        int index=nums.size()-1;
+        
+        while(i<=j){
+            int val1=nums[i]*nums[i];
+            int val2=nums[j]*nums[j];
+            
+            if(val1>val2){
+                result[index]=val1;
+                i++;
+            }
+            else{
+                result[index]=val2;
+                j--; 
+            }
+            index--;
+        }
+        
+       return result; 
+    }
+    
+}
